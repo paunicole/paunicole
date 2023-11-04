@@ -1,5 +1,8 @@
-<h1 align="center">Hola 👋 soy Paula Nicole </h1> 
-<h3 align="center">soy una Backend apasionada</h3>
+<h1 align="center">Hola 👋 soy Paula Nicole </h1>
+
+![paunicole-portada](paunicole-portada.png)
+
+<h3 align="center">Software Developer</h3>
 <p align="center">
   <a href="https://linkedin.com/in/nicole-cardozo-gomez" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="nicole-cardozo-gomez"/></a>
   <a href="https://www.instagram.com/paucardozogomez/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="paula"/></a>
