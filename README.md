@@ -23,7 +23,10 @@
 
 **Lenguajes**:
 <p>
-    <a href="https://github.com/paunicole"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
+    <a href="https://github.com/paunicole"><img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"></a>
+    <a href="https://github.com/paunicole"><img alt="Java" src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java&logoColor=white"></a>
+    <a href="https://github.com/paunicole"><img alt="C" src="https://img.shields.io/badge/C-3776AB?style=for-the-badge&logo=c&logoColor=white"></a>
+    <a href="https://github.com/paunicole"><img alt="ABAP" src="https://img.shields.io/badge/ABAP-4D97FF?style=for-the-badge&logo=abap&logoColor=white"></a>
 </p>
 
 **Frontend**:
@@ -37,6 +40,7 @@
 <p>
     <a href="https://github.com/paunicole"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></a>
     <a href="https://github.com/paunicole"><img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"></a>
+    <a href="https://github.com/paunicole"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></a>
 </p>
 
 **Framework**:
